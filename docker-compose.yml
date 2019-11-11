@@ -1,0 +1,10 @@
+version: '3'
+services:
+  scraping:
+    restart: always
+    build: .
+    container_name: 'scraping'
+    working_dir: '/root/'
+    tty: true
+    volumes:
+      - ./opt:/root/opt
