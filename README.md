@@ -5,4 +5,6 @@
 
 ```# cd opt```  
 ```# git clone ```  
-```# python scrape_startupDB ver.X.py```
+```# python scrape_startupDB ver.X.py```  
+
+X is the lastest number
