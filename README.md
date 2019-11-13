@@ -7,4 +7,4 @@
 ```# git clone ```  
 ```# python scrape_startupDB ver.X.py```  
 
-X is the lastest number
+X is supposed to be the lastest number
