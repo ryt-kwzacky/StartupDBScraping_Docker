@@ -4,7 +4,7 @@
 ```$ docker-compose exec scraping bash```  
 
 ```# cd opt```  
-```# git clone ```  
-```# python scrape_startupDB ver.X.py```  
+```# git clone https://github.com/RyutoKawasaki/Scraping_StartupDB.git```  
+```# python scrape_startupDB.py```  
 
 X is supposed to be the lastest number
